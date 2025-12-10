@@ -21,10 +21,7 @@ The Database I used is: https://physionet.org/content/chbmit/1.0.0/
 
 ## Kontakt & Support
 
-**Entwickelt von**: Ivayla Markova  
-**Universität**: Technical University of Sofia 
-**Studiengang**: Computer Science - German Faculty
-**Projekt**: Evolutionary Algorithms
+**Author**: Ivayla Markova  
 
 
 ## Links & References
