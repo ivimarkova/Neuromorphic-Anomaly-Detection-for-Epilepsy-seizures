@@ -11,16 +11,7 @@ My approach targets the automatic real-time recognition of seizure events from b
 The Database I used is: https://physionet.org/content/chbmit/1.0.0/
 
 
-## Features
-
-- **Interaktive Kristallkugel** mit mystischer Animation
-- **Täglicher Ratschlag** von der Advice Slip API
-- **Deutsche Feiertage** über Nager.Date API
-- **Spotify Song-Empfehlungen** aus 2024
-- **Animierter Sternenhimmel** im Hintergrund
-- **Progressive Web App** - installierbar auf allen Geräten
-
-##  Technologie-Stack
+##  Technology-Stack
 
 - Jupiter Notebook
 - Google Colab
@@ -36,6 +27,6 @@ The Database I used is: https://physionet.org/content/chbmit/1.0.0/
 **Projekt**: Evolutionary Algorithms
 
 
-## Links & Referenzen
+## Links & References
 
   -**© 2025 Ivayla Markova - All rights reserved**
